@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nvm installl 18.18.0 ; nvm use 18.18.0 ; node index.mjs"
+    "start": "nvm installl 18.18.0 ; nvm use 18.18.0 ; npm ci ; node index.mjs"
   },
   "keywords": [],
   "author": "Raz Luvaton",
